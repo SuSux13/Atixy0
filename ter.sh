@@ -21,9 +21,4 @@ mv metasploit-framework $HOME
 cd $HOME
 cd metasploit-framework
 msfconsole
-apt install wget
-apt install curl
-apt install nano
-apt install php
-apt install python
-apt install daemon
+
