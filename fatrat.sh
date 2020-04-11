@@ -1,3 +1,7 @@
+git clone https://github.com/Screetsec/TheFatRat
+
+cd TheFatRat
+
 
 sudo apt-get install xterm
 
